@@ -6,6 +6,7 @@ public static void main(String args[]){
 	Scanner s=new Scanner(System.in);
 	num1=s.nextInt();
 	System.out.prinrln("Enter second value");
+	System.out.printlln("Thankyou");
 	num2=s.nextInt();
 	res=num1+num2;
 	System.out.println("Result is "+res);
