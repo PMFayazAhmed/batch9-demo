@@ -8,7 +8,7 @@ public static void main(String args[]){
 	System.out.prinrln("Enter second value");
 	System.out.printlln("Thankyou");
 	num2=s.nextInt();
-	res=num1+num2;
+	res=num1*num2;
 	System.out.println("Result is "+res);
 }
 }
