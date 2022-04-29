@@ -17,6 +17,6 @@ public static void main(String args[]){
 	else
 	{
 		System.out.println("Result is negative number");
-	}
+	}//END of the Main Method
 }
 }
