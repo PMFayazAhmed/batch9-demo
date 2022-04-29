@@ -12,11 +12,11 @@ public static void main(String args[]){
 	System.out.println("Result is "+res);
 	if(res>0)
 	{
-		System.out.println("Result is positive number");
+		System.out.println("Result is positive value");
 	}
 	else
 	{
-		System.out.println("Result is negative number");
+		System.out.println("Result is negative value");
 	}
 }
 }
